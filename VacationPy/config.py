@@ -1,2 +1,2 @@
 # Add google API Key
-gkey = "Your Key#2"
+gkey = "AIzaSyDh1ZUbOVoqt6fEUAK0fp_IvrkS9JBC-js"
